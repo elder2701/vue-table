@@ -15,7 +15,7 @@ npm run serve
 npm run build
 
 Сборку запустить, просто открыв файл index.html, не получится.
-Нужен локальный HTTP сервер. Например, serv:
+Нужен локальный статический файловый сервер Node.js. Например, serv:
 
 npm install -g serve
 
